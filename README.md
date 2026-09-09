@@ -2,7 +2,7 @@
 
 Polonia Bytom (PB) – Pogoń Grodzisk Mazowiecki (PGM) 2:2, dane StatsBomb, `match_id` 4068759.
 
-Liczymy z perspektywy Pogoni: ile xG stworzyli i ile stracili, osobno dla każdego wyniku na tablicy: gdy prowadzą, gdy jest remis i gdy przegrywają.
+Liczony z perspektywy Pogoni: ile xG stworzyli i ile stracili, osobno dla każdego wyniku na tablicy: gdy prowadzą, gdy jest remis i gdy przegrywają.
 
 Kod: [`xg_by_game_state.ipynb`](xg_by_game_state.ipynb).
 
