@@ -12,7 +12,7 @@ Wahadłowy jest bardzo różnorodną rolą, która może mieć różne twarze. M
 
 ### Potem sprawdzam, czy w tych 20 meczach jest to czego szukamy.
 
-20 meczów to nie znaczy 20 meczów na wahadle. Sprawdzam, na jakiej pozycji faktycznie grał — StatsBomb podaje to przy każdym evencie i w ustawieniach z `Starting XI` oraz `Tactical Shift`. Jeśli w połowie z nich był bocznym obrońcą w czwórce, to jego liczby mówią o innym założeniu niż to, którego szukamy.
+20 meczów to nie znaczy 20 meczów na wahadle. Sprawdzam, na jakiej pozycji faktycznie grał -> StatsBomb podaje to przy każdym evencie i w ustawieniach z `Starting XI` oraz `Tactical Shift`. Jeśli w połowie z nich był bocznym obrońcą w czwórce, to jego liczby mówią o innym założeniu niż to, którego szukamy.
 
 Patrzę też, ile realnie zagrał minut, po której stronie, z kim grał i jak wyglądał wynik. To ostatnie ma znaczenie, bo wahadłowy przy prowadzeniu i przy przegrywaniu robi zupełnie co innego, dokładnie ten sam podział co w zadaniu 1, tylko tutaj przydaje się praktycznie. Warto również zapytać, kto te dane przygotował, jeżeli agent zawodnika to wiadomo że będzie chciał jak najlepiej go przedstawić. Jeżeli bierzemy po prostu ostatnie 20 meczów, problem w pewnym sensie znika i mniej więcej znamy jego aktualną formę.
 
@@ -30,7 +30,7 @@ Do każdego wymagania z listy trenera dobieram jedną–dwie rzeczy, które da s
 | Pracuje w pressingu | pressing, kontrpressing, odbiory na połowie rywala |
 | Ogarnia pod presją | jak podaje, kiedy jest kryty — czy gra trudne piłki, czy tylko bezpieczne |
 
-Dwie ważne rzeczy, których nie można pominąć. Po pierwsze, porównuję go do innych wahadłowych z tej ligi, a nie patrzę na gołe liczby — „3 dośrodkowania na mecz" nic nie znaczy, dopóki nie wiem, ile robią inni. Po drugie, patrzę na rozrzut mecz po meczu, nie na średnią. Zawodnik z czterema dośrodkowaniami w każdym meczu i taki z dwudziestoma w jednym i zerem w reszcie mają tę samą średnią i zupełnie inną wartość.
+Dwie ważne rzeczy, których nie można pominąć. Po pierwsze, porównuję go do innych wahadłowych z tej ligi, a nie patrzę na gołe liczby, „3 dośrodkowania na mecz" nic nie znaczy, dopóki nie wiem, ile robią inni. Po drugie, patrzę na rozrzut mecz po meczu, nie na średnią. Zawodnik z czterema dośrodkowaniami w każdym meczu i taki z dwudziestoma w jednym i zerem w reszcie mają tę samą średnią i zupełnie inną wartość.
 
 Na koniec zestawiam to z naszymi obecnymi wahadłowymi. Pytanie nie brzmi „czy jest dobry", tylko „czy jest lepszy od tego, co już mamy, w tych kilku rzeczach, na których nam zależy" lub "czy jest godnym rezerwowym/młodym zawodnikiem z potencjałem itp"
 
