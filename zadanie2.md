@@ -30,7 +30,7 @@ Do każdego wymagania z listy trenera dobieram jedną–dwie rzeczy, które da s
 | Pracuje w pressingu | pressing, kontrpressing, odbiory na połowie rywala |
 | Ogarnia pod presją | jak podaje, kiedy jest kryty — czy gra trudne piłki, czy tylko bezpieczne |
 
-Dwie rzeczy, których pilnuję zawsze. Po pierwsze, porównuję go do innych wahadłowych z tej ligi, a nie patrzę na gołe liczby — „3 dośrodkowania na mecz" nic nie znaczy, dopóki nie wiem, ile robią inni. Po drugie, patrzę na rozrzut mecz po meczu, nie na średnią. Zawodnik z czterema dośrodkowaniami w każdym meczu i taki z dwudziestoma w jednym i zerem w reszcie mają tę samą średnią i zupełnie inną wartość.
+Dwie ważne rzeczy, których nie można pominąć. Po pierwsze, porównuję go do innych wahadłowych z tej ligi, a nie patrzę na gołe liczby — „3 dośrodkowania na mecz" nic nie znaczy, dopóki nie wiem, ile robią inni. Po drugie, patrzę na rozrzut mecz po meczu, nie na średnią. Zawodnik z czterema dośrodkowaniami w każdym meczu i taki z dwudziestoma w jednym i zerem w reszcie mają tę samą średnią i zupełnie inną wartość.
 
 Na koniec zestawiam to z naszymi obecnymi wahadłowymi. Pytanie nie brzmi „czy jest dobry", tylko „czy jest lepszy od tego, co już mamy, w tych kilku rzeczach, na których nam zależy" lub "czy jest godnym rezerwowym/młodym zawodnikiem z potencjałem itp"
 
