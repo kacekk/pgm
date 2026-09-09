@@ -18,6 +18,14 @@ Nazwy kolumn: `xG_PGM` to Pogoń, `xG_PB` to Polonii z tego samego czasu, `xGD` 
 | draw | 78,5 | 10 | 0,609 | 0,061 | 17 | 0,923 | **−0,314** | −0,36 |
 | trailing | 9,4 | 2 | 0,017 | 0,008 | 1 | 0,066 | **−0,050** | −0,48 |
 
+To samo z perspektywy Polonii, czyli lustrzane odbicie: nasze `leading` to ich `trailing`.
+
+| state | minutes | shots_PB | xG_PB | xG_per_shot_PB | shots_PGM | xG_PGM | **xGD** | xGD_per90 |
+|---|---|---|---|---|---|---|---|---|
+| leading | 9,4 | 1 | 0,066 | 0,066 | 2 | 0,017 | **+0,050** | +0,48 |
+| draw | 78,5 | 17 | 0,923 | 0,054 | 10 | 0,609 | **+0,314** | +0,36 |
+| trailing | 6,5 | 2 | 0,079 | 0,040 | 2 | 0,117 | **−0,038** | −0,53 |
+
 Cały mecz: my 14 strzałów i 0,743 xG, oni 20 strzałów i 1,069 xG.
 
 Ten sam podział przy konkretnych wynikach na tablicy (PGM:PB):
