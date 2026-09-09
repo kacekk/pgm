@@ -2,11 +2,11 @@
 
 Polonia Bytom (PB) – Pogoń Grodzisk Mazowiecki (PGM) 2:2, dane StatsBomb, `match_id` 4068759.
 
-Liczymy z perspektywy Pogoni: ile xG stworzyliśmy i ile straciliśmy, osobno dla każdego wyniku na tablicy: gdy prowadzimy, gdy jest remis i gdy przegrywamy.
+Liczymy z perspektywy Pogoni: ile xG stworzyli i ile stracili, osobno dla każdego wyniku na tablicy: gdy prowadzą, gdy jest remis i gdy przegrywają.
 
 Kod: [`xg_by_game_state.ipynb`](xg_by_game_state.ipynb).
 
-Nazwy kolumn: `xG_PGM` to nasze, `xG_PB` to Polonii z tego samego czasu, `xGD` to różnica. Stany: `leading` / `draw` / `trailing`.
+Nazwy kolumn: `xG_PGM` to Pogoń, `xG_PB` to Polonii z tego samego czasu, `xGD` to różnica. Stany: `leading` (prowadzenie) / `draw` (remis) / `trailing` (przegrywanie).
 
 ---
 
@@ -40,7 +40,7 @@ Przy remisie byliśmy gorsi: 10 strzałów i 0,609 xG do 17 strzałów i 0,923 x
 
 Liczby przy prowadzeniu i przy przegrywaniu to po 6–9 minut i po 1–2 strzały na stronę. Na tym nie da się powiedzieć nic o tym, jak drużyna gra przy prowadzeniu, dlatego kolumnę `xGD_per90` w tych dwóch wierszach lepiej zignorować. Żeby takie porównanie miało sens, trzeba zebrać kilkadziesiąt meczów.
 
-## Jak to liczone
+## Jak to jest liczone?
 
 - Stan meczu strzału = wynik tuż przed tym strzałem. Gol liczy się do stanu, w którym padł, i zmienia stan dopiero dla kolejnych zdarzeń.
 - `xGD` = nasze xG minus xG rywala z tego samego kawałka meczu (nasze `leading` = ich `trailing`).
