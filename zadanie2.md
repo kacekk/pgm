@@ -6,17 +6,17 @@
 
 ## Odpowiedź
 
-### Zanim otworzę dane, pytam trenera, o jakiego wahadłowego chodzi
+### Zanim otworzę dane, pytam trenera, o jakiego wahadłowego chodzi.
 
 Wahadłowy jest bardzo różnorodną rolą, która może mieć różne twarze. Może dobiegać do linii końcowej i dośrodkowywać, lub schodzić do środka i szukać podania/strzału, to dwa różne typy zawodników. Do tego dochodzi, czy dochodzi do tranzycji między fazami ofensywnymi i defensywnymi czyli np. z 3 obrońców na 4 lub czy np. przy stracie wraca do piątki, czy zostaje wysoko i z której gra strony.
 
-### Potem sprawdzam, czy te 20 meczów w ogóle jest o tym
+### Potem sprawdzam, czy w tych 20 meczach jest to czego szukamy.
 
 20 meczów to nie znaczy 20 meczów na wahadle. Sprawdzam, na jakiej pozycji faktycznie grał — StatsBomb podaje to przy każdym evencie i w ustawieniach z `Starting XI` oraz `Tactical Shift`. Jeśli w połowie z nich był bocznym obrońcą w czwórce, to jego liczby mówią o innym założeniu niż to, którego szukamy.
 
 Patrzę też, ile realnie zagrał minut, po której stronie, z kim grał i jak wyglądał wynik. To ostatnie ma znaczenie, bo wahadłowy przy prowadzeniu i przy przegrywaniu robi zupełnie co innego, dokładnie ten sam podział co w zadaniu 1, tylko tutaj przydaje się praktycznie. Warto również zapytać, kto te dane przygotował, jeżeli agent zawodnika to wiadomo że będzie chciał jak najlepiej go przedstawić. Jeżeli bierzemy po prostu ostatnie 20 meczów, problem w pewnym sensie znika i mniej więcej znamy jego aktualną formę.
 
-### Dopiero teraz liczby
+### Dopiero teraz zaczyna się praca na liczbach.
 
 Do każdego wymagania z listy trenera dobieram jedną–dwie rzeczy, które da się policzyć:
 
@@ -34,13 +34,12 @@ Dwie rzeczy, których pilnuję zawsze. Po pierwsze, porównuję go do innych wah
 
 Na koniec zestawiam to z naszymi obecnymi wahadłowymi. Pytanie nie brzmi „czy jest dobry", tylko „czy jest lepszy od tego, co już mamy, w tych kilku rzeczach, na których nam zależy" lub "czy jest godnym rezerwowym/młodym zawodnikiem z potencjałem itp"
 
-### I tak kończy się na wideo
+### Końcowa wideoweryfikacja.
 
 Z danych wyciągam sytuacje do obejrzenia: wszystkie obrony 1v1 w swojej tercji, wszystkie dojścia do linii końcowej, zachowanie po stracie. Trener ogląda i ocenia to, czego w liczbach nie widać. Cała robota z danymi ma skrócić oglądanie z 20 meczów do kilkudziesięciu klipów, a nie je zastąpić.
 
 ---
-
-## Gdzie te dane mnie zawiodą
+## Gdzie te dane mnie zawiodą?
 
 **Wahadłowy pracuje bez piłki, a te dane widzą tylko piłkę.** To jest największy problem i nie da się go obejść. Zawodnik dotyka piłki może 70 razy w meczu, czyli jakieś półtorej minuty. Cała reszta — czy stoi tam, gdzie powinien, kiedy rusza w wolne miejsce, czy wraca na czas do piątki, czy trzyma linię z resztą obrony — po prostu w tych danych nie istnieje. A to jest większość jego roboty. Freeze frame'y, czyli ustawienie zawodników, są tylko przy strzałach, więc nawet tego nie ma jak prześledzić na podstawie samych danych.
 
